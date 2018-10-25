@@ -23,4 +23,3 @@ appendFile.write(str(w))
 #appendFile.write(str(row))
 #appendFile.write(r)
 appendFile.close()
-
