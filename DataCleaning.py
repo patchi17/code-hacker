@@ -18,5 +18,3 @@ print(newcsv_1.shape)
 newcsv_1.to_csv("cleaned.csv")
 
 newcsv_1
-
-
